@@ -35,5 +35,3 @@ app.js         // Runs the application
 ```
 
 ## Deployment Video
-
-https://drive.google.com/file/d/1QkFSl8nMVb_JXjXve1vaYtfgATjT9Ja9/view
