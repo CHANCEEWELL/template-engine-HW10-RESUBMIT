@@ -41,3 +41,7 @@ https://raw.githubusercontent.com/CHANCEEWELL/template-engine-HW10-RESUBMIT/mast
 ## Deployed application Screenshot
 
 https://raw.githubusercontent.com/CHANCEEWELL/template-engine-HW10-RESUBMIT/master/Assets/Screen%20Shot%202021-02-26%20at%2010.02.26%20PM.png
+
+## Deployed application vidyard screen recording + audio instructions [ command line ]
+
+https://share.vidyard.com/watch/VQk8uZH8XNUafy2eVzNU3K?
