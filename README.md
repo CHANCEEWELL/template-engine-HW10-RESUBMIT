@@ -9,7 +9,7 @@ You will build a software engineering team generator command line application. T
 ```
 As a manager
 I want to generate a webpage that displays my team's basic info
-so that I have quick access to emails and GitHub profiles
+so that I have quick access to emails and GitHub/Facebook profiles
 ```
 
 It is recommended that you follow this workflow:
@@ -18,7 +18,7 @@ It is recommended that you follow this workflow:
 2. Create or update classes to pass a single test case
 3. Repeat
 
-🎗 Remember, you can run the tests at any time with `npm run test`
+ Remember, you can run the tests at any time with `npm run test`
 
 It is recommended that you start with a directory structure that looks like this:
 
@@ -34,4 +34,4 @@ test/          // jest tests
 app.js         // Runs the application
 ```
 
-## Deployment Video
+
